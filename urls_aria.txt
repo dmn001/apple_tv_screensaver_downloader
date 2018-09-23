@@ -72,3 +72,5 @@ https://sylvan.apple.com/Aerials/2x/Videos/LA_A009_C009_4K_SDR_HEVC.mov
  out=Los Angeles LA_A009_C009_4K_SDR_HEVC.mov
 https://sylvan.apple.com/Aerials/2x/Videos/LA_A005_C009_4K_SDR_HEVC.mov
  out=Los Angeles LA_A005_C009_4K_SDR_HEVC.mov
+https://sylvan.apple.com/Aerials/2x/Videos/DB_D011_C009_4K_SDR_HEVC.mov
+ out=Dubai DB_D011_C009_4K_SDR_HEVC.mov
