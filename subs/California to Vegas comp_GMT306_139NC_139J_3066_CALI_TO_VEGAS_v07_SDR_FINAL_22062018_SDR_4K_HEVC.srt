@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:10,000
+Over the Pacific Ocean moving towards the California coast
+
+2
+00:01:10,000 --> 00:01:20,000
+Over the California coast travelling inland
+
+3
+00:01:25,000 --> 00:01:35,000
+Passing over Los Angeles on the west coast of the United States
+
+4
+00:01:35,000 --> 00:01:45,000
+Over Los Angeles approaching Las Vegas in the United States
+
+5
+00:01:50,000 --> 00:02:00,000
+Over Las Vegas heading towards Salt Lake City in the United States
+
+6
+00:02:00,000 --> 00:02:10,000
+Over the western United States approaching Salt Lake City
+
+7
+00:02:35,000 --> 00:02:45,000
+Passing between Salt Lake City and Denver in the United States
+
+8
+00:02:50,000 --> 00:03:00,000
+Over the Rocky Mountains in the United States
+
