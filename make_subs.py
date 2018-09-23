@@ -17,7 +17,7 @@ filenames = [i.strip() for i in filenames]
 
 # print filenames
 
-# 30/33 have subtitles
+# 34/38 have subtitles
 
 path = './subs/'
 if not os.path.exists(path):
