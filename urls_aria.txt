@@ -64,3 +64,11 @@ https://sylvan.apple.com/Aerials/2x/Videos/comp_A114_C001_0305OT_v10_SDR_FINAL_2
  out=Southern California to Baja comp_A114_C001_0305OT_v10_SDR_FINAL_22062018_SDR_4K_HEVC.mov
 https://sylvan.apple.com/Aerials/2x/Videos/comp_A001_C004_1207W5_v23_SDR_FINAL_20180706_SDR_4K_HEVC.mov
  out=West Africa to the Alps comp_A001_C004_1207W5_v23_SDR_FINAL_20180706_SDR_4K_HEVC.mov
+https://sylvan.apple.com/Aerials/2x/Videos/LW_L001_C006_4K_SDR_HEVC.mov
+ out=Liwa LW_L001_C006_4K_SDR_HEVC.mov
+https://sylvan.apple.com/Aerials/2x/Videos/LA_A011_C003_4K_SDR_HEVC.mov
+ out=Los Angeles LA_A011_C003_4K_SDR_HEVC.mov
+https://sylvan.apple.com/Aerials/2x/Videos/LA_A009_C009_4K_SDR_HEVC.mov
+ out=Los Angeles LA_A009_C009_4K_SDR_HEVC.mov
+https://sylvan.apple.com/Aerials/2x/Videos/LA_A005_C009_4K_SDR_HEVC.mov
+ out=Los Angeles LA_A005_C009_4K_SDR_HEVC.mov
