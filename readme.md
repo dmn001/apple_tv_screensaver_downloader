@@ -24,9 +24,9 @@ Download videos using aria:
 
 ## Subtitles / points of interest:
 
-In the `resources.tar` file, extract `./TVIdleScreenStrings.bundle/en_GB.lproj/Localizable.nocache.strings`.
+In the `resources.tar` file, extract `./TVIdleScreenStrings.bundle/en_GB.lproj/Localizable.nocache.strings`. (you can use another file based on your locale preference)
 
-Convert this file to xml and download as `strings.xml` and put in current directory: https://localise.biz/free/converter/ios-to-android
+Using the following website, convert this file to xml and download as `strings.xml` and put in current directory: https://localise.biz/free/converter/ios-to-android
 
 Run `parse_sub_strings.py` to convert `strings.xml` to `sub_strings.json`.
 
@@ -36,4 +36,4 @@ Run `make_subs.py` to convert `sub_strings.json` to `.srt` subtitles files in th
 
 Gist: https://gist.github.com/dmn001/471efcecc19bfb9be7a8575a557162b7
 
-2021-05-30: There are 63 videos totalling 20.17 GB.
+2021-05-30: There are 63 videos with total size 20.17 GB.
