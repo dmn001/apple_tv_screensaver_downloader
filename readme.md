@@ -8,7 +8,7 @@ Parse json to txt and csv files: `parse_entries.json`
 
 Download videos using aria:
 
-aria2c --check-certificate=false -i urls_aria_final.txt -c
+aria2c --check-certificate=false -i urls_aria.txt -c -d ./apple_4k_screensaver_videos/
 
 
 -------------
