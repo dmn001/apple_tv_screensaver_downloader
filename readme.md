@@ -1,3 +1,11 @@
+[this project is incomplete and currently a work in progress]
+
+## todo
+
+add in the new sources.
+
+download and untar within python
+
 ## Readme
 
 This repo is used to download the Apple TV screensavers in 4k HDR mov format.
@@ -37,3 +45,8 @@ Run `make_subs.py` to convert `sub_strings.json` to `.srt` subtitles files in th
 Gist: https://gist.github.com/dmn001/471efcecc19bfb9be7a8575a557162b7
 
 2021-05-30: There are 63 videos with total size 20.17 GB.
+
+## source list
+
+https://github.com/JohnCoates/Aerial/blob/2ff3ec389d2854f691a1fb33ebb6d962cde84cbf/Aerial/Source/Models/Sources/SourceList.swift
+
