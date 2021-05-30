@@ -30,7 +30,7 @@ Convert this file to xml and download as `strings.xml` and put in current direct
 
 Run `parse_sub_strings.py` to convert `strings.xml` to `sub_strings.json`.
 
-Run `make_subs.py` to convert `sub_strings.json` to `.srt` subtitles files in the  directory './subs/'.
+Run `make_subs.py` to convert `sub_strings.json` to `.srt` subtitles files in the  directory './subtitles/'.
 
 
 -------------
