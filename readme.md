@@ -32,7 +32,8 @@ Run `parse_sub_strings.py` to convert `strings.xml` to `sub_strings.json`.
 
 Run `make_subs.py` to convert `sub_strings.json` to `.srt` subtitles files in the  directory './subtitles/'.
 
+## Notes
 
--------------
+Gist: https://gist.github.com/dmn001/471efcecc19bfb9be7a8575a557162b7
 
-also see: https://gist.github.com/dmn001/471efcecc19bfb9be7a8575a557162b7
+2021-05-30: There are 63 videos totalling 20.17 GB.
