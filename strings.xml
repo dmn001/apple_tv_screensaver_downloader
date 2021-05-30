@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
  Loco xml export: Android string resources
  Project: Localizable.nocache.strings conversion
  Release: Working copy
  Locale: en, English
  Exported by: Unregistered user
- Exported at: Sun, 23 Sep 2018 13:31:50 +0100
+ Exported at: Sun, 30 May 2021 15:06:33 +0100
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="N003_C006_50">Over Midtown Manhattan heading downtown towards the Empire State Building</string>
