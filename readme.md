@@ -15,9 +15,7 @@ Subtitles / points of interest:
 
 In the `resources.tar` file, extract `./TVIdleScreenStrings.bundle/en_GB.lproj/Localizable.nocache.strings`.
 
-Convert this file to "strings.xml" and put in current directory.
-
-https://localise.biz/free/converter/ios-to-android
+Convert this file to "strings.xml" and put in current directory: https://localise.biz/free/converter/ios-to-android
 
 Run `parse_sub_strings.py` to convert `strings.xml` to `sub_strings.json`.
 
