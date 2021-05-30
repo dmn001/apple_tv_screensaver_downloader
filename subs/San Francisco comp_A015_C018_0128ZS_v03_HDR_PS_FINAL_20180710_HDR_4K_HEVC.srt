@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:10,000
+Approaching the Bay Bridge and downtown San Francisco
+
+2
+00:01:20,000 --> 00:01:30,000
+Crossing over the Bay Bridge heading towards downtown San Francisco
+
+3
+00:01:56,000 --> 00:02:06,000
+Over San Francisco Bay heading towards downtown
+

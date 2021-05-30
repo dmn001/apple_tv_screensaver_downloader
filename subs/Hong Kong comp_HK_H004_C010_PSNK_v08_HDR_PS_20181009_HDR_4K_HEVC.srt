@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:10,000
+Flying over Victoria Peak in Hong Kong
+
+2
+00:02:30,000 --> 00:02:40,000
+Flying over Hong Kong towards Victoria Harbour
+
+3
+00:05:30,000 --> 00:05:40,000
+Over Victoria Harbour approaching the Kowloon Peninsula
+

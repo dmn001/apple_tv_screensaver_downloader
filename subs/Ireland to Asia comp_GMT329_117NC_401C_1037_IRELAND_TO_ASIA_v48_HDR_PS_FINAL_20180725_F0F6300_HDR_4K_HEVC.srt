@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:10,000
+Over the North Atlantic approaching the British Isles
+
+2
+00:00:15,000 --> 00:00:25,000
+Ireland and the United Kingdom
+
+3
+00:00:45,000 --> 00:00:55,000
+Over the United Kingdom travelling towards mainland Europe
+
+4
+00:01:05,000 --> 00:01:15,000
+Over north-western Europe heading towards Russia
+
+5
+00:01:45,000 --> 00:01:55,000
+Over central Europe heading towards Russia
+
+6
+00:02:30,000 --> 00:02:40,000
+Over eastern Europe with Moscow in the distance
+
+7
+00:02:45,000 --> 00:02:55,000
+Over eastern Europe looking towards Moscow
+
+8
+00:03:05,000 --> 00:03:15,000
+Over western Russia passing Moscow
+
+9
+00:03:15,000 --> 00:03:25,000
+Over Russia travelling towards central Asia
+

@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:10,000
+Heading down 7th Avenue towards Times Square, New York
+
+2
+00:01:00,000 --> 00:01:10,000
+Over Times Square in New York
+
+3
+00:02:20,000 --> 00:02:30,000
+Heading down 7th Avenue in Midtown Manhattan, New York
+

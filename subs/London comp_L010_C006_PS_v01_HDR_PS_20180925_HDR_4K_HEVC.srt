@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:10,000
+Approaching Tower Bridge on the River Thames, London
+
+2
+00:00:30,000 --> 00:00:40,000
+Following the River Thames in London
+
+3
+00:02:10,000 --> 00:02:20,000
+South of the River Thames in London
+
+4
+00:03:30,000 --> 00:03:40,000
+Crossing the River Thames in London
+

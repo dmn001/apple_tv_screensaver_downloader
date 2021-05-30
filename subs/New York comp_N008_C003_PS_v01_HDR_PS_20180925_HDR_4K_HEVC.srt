@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:10,000
+Approaching Lower Manhattan from New York Harbour
+
+2
+00:01:50,000 --> 00:02:00,000
+Alongside Lower Manhattan approaching One World Trade Center
+
+3
+00:03:00,000 --> 00:03:10,000
+Passing One World Trade Center towards Midtown Manhattan
+
+4
+00:03:30,000 --> 00:03:40,000
+Over Lower Manhattan in New York moving towards Midtown
+

@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:10,000
+Over Buckingham Palace in London
+
+2
+00:00:25,000 --> 00:00:35,000
+Over St James’s Park heading towards the River Thames, London
+
+3
+00:01:20,000 --> 00:01:30,000
+Crossing the River Thames and passing over the London Eye
+
+4
+00:02:05,000 --> 00:02:15,000
+Passing over South London
+
+5
+00:04:15,000 --> 00:04:25,000
+Passing by The Shard in South London
+
+6
+00:04:35,000 --> 00:04:45,000
+Crossing the River Thames in London
+
+7
+00:05:00,000 --> 00:05:10,000
+Crossing the River Thames at Tower Bridge in London
+
