@@ -11,7 +11,8 @@ filename_for_url = {}
 
 assets = json_obj['assets']
 for item in assets:
-    url = item['url-4K-SDR']
+    # url = item['url-4K-SDR']
+    url = item['url-4K-HDR']
     filename = "%s" % (item['accessibilityLabel'])
 
     m = re.match('.*/(.+)',url)
