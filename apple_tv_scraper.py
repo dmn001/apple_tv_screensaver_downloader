@@ -54,7 +54,7 @@ class apple_tv_scraper(Scraper):
         assets = json_obj['assets']
         for item in assets:
             # url = item['url-4K-SDR']
-            url = item['url-4K-HDR']
+            url = item['url-4K-SDR']
             filename = "%s" % (item['accessibilityLabel'])
 
             m = re.match('.*/(.+)',url)
